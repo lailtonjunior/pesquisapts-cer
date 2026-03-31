@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-apae-blue: #003CFF;
+  --color-apae-green: #00C800;
+  --color-apae-red: #FF0000;
+  --color-apae-yellow: #FFC800;
+  --color-apae-darkred: #870606;
+
+  /* Animações e gradientes utilitários para Wow Effect */
+  --animate-pulse-slow: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
